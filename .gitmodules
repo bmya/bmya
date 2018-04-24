@@ -1,0 +1,4 @@
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:bmya/server-tools.git
+	branch = 11.0
