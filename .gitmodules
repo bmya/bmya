@@ -2,3 +2,7 @@
 	path = server-tools
 	url = git@github.com:bmya/server-tools.git
 	branch = 11.0
+[submodule "web"]
+	path = web
+	url = git@github.com:bmya/web.git
+	branch = 11.0
